@@ -16,6 +16,7 @@ Two types of models are implemented and evaluated in this repository:
 Convolutional Neural Network (CNN): A custom CNN architecture designed for the task of potato leaf classification.
 VGG16: A pre-trained VGG16 model fine-tuned on the PlanVillage dataset.
 
+MobileNet- this is a easy to implement and use model which was specially designed for implementing machine learning models on mibles and handy devices which does convolution iun two ways 
 
 Usage
 Data Preparation: Ensure that the PlanVillage dataset is properly organized and accessible.
