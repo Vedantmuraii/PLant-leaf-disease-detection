@@ -30,3 +30,5 @@ NumPy
 Matplotlib
 Pandas
 
+overall vgg16 gives the highest accuracy
+
