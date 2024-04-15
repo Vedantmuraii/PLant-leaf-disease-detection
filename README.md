@@ -24,7 +24,7 @@ Training: Run the training scripts for the CNN and VGG16 models on the dataset.
 Evaluation: Evaluate the trained models on the test set to assess their performance.
 Inference: Use the trained models for inference on new potato leaf images for classification.
 Requirements
-Python 3.x
+Python 3.x.
 TensorFlow
 NumPy
 Matplotlib
