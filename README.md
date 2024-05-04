@@ -6,7 +6,7 @@ Healthy potato leaves
 Potato leaves infected with a specific disease
 Potato leaves affected by a different disease
 The trained models are intended to assist in the automated classification of potato leaf images, which can be helpful for agricultural monitoring and disease detection.
-
+.
 Dataset
 The PlanVillage dataset used for training and evaluation consists of labeled images of potato leaves. The dataset is split into training, validation, and test sets, with proper distribution across classes to ensure balanced training.
 
